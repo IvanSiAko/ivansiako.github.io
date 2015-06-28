@@ -3,4 +3,4 @@
 
 ---
 
-Just an initial readme for my Github page.
+06/28/2015 -- This Github page is under construction.
